@@ -1,6 +1,5 @@
 # Testiamo il for
-read a
 
-for i in {$a}; do
+for i in {1..5}; do
 	echo $i
 done
