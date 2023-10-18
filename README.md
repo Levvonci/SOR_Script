@@ -30,7 +30,7 @@ Siete incoraggiati a contribuire a questa repository. Se avete nuovi esercizi, s
 
 Per domande, suggerimenti o problemi relativi a questa repository, non esitate a contattarmi:
 
-- Telegram [lvnc](t.me/Levvonci)
+- Telegram [Levvonci](t.me/Levvonci)
 - 𝕏 [Levvonci](https://twitter.com/Levvonci)
 
 Buon lavoro nello sviluppo delle vostre competenze nello scripting in Bash!
